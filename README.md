@@ -1,7 +1,7 @@
 # NBA Fourth Quarter Fatigue Predictor
 
-> Portfolio project for CMU Sports AI Research (Fall 2026) — validating the hypothesis that
-> player fatigue produces measurable, predictable Q4 performance degradation correlated with
+> A personal project validating the hypothesis that player fatigue produces
+> measurable, predictable Q4 performance degradation correlated with
 > cumulative in-game workload.
 
 ---
